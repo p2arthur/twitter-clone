@@ -1,5 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Twitter Clone with Next.js and Full Stack Workflow
 
+Welcome to my first project using the Next.js framework! This application is a Twitter clone where I aim to gain hands-on experience with a full stack workflow. I'll be leveraging various technologies such as Prisma, TypeScript, MongoDB, and Zustand for state management.
+
+## Goal
+
+My primary objective for this project is to learn the ins and outs of building a web application with Next.js while integrating essential tools like Prisma and MongoDB for database management and Zustand for state handling.
+
+## Future Aspiration
+
+In addition to mastering this tech stack, I plan to explore Algorand blockchain transactions and potentially implement them into the application later on.
+
+## Documentation
+
+To get started with this project, feel free to refer to the following documentation links:
+
+- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API.
+- [Prisma Documentation](https://prisma.io/docs) - Explore the Prisma documentation.
+- [MongoDB Documentation](https://docs.mongodb.com) - Discover MongoDB's capabilities.
+
+Happy coding! 🚀
 ## Getting Started
 
 First, run the development server:
@@ -14,9 +33,12 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Next.js Documentation - Learn about Next.js features and API.
+[Prisma Documentation](prisma documentation link) - Explore the Prisma documentation.
+[MongoDB Documentation](prisma documentation link) - Discover MongoDB's capabilities.
+Happy coding! 🚀
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Learn More
 
@@ -32,3 +54,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
